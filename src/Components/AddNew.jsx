@@ -24,7 +24,7 @@ export default class AddNew extends Component {
 
     render() {
         return (
-            <div>
+            <div style={{margin: "10px"}}>
                 <Button variant="outlined" color="primary" onClick={this.handleClickOpen}>
                     Nueva Reseña
             </Button>
@@ -71,10 +71,10 @@ export default class AddNew extends Component {
                     </DialogContent>
                     <DialogActions>
                         <Button onClick={this.handleClose} color="primary">
-                            Cancel
+                            Cancelar
                 </Button>
                         <Button onClick={this.handleClose} color="primary">
-                            Subscribe
+                            Enviar
                 </Button>
                     </DialogActions>
                 </Dialog>

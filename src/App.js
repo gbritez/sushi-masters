@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 import RestaurantGrid from './Components/RestaurantGrid';
 import Search from './Components/Search'
-import { Paper } from '@material-ui/core';
+
 const list = [
   { id: 1, name: "Kanú", score: 5, lastTimeVisited: "11/02/2019", address: "Martinez" },
   { id: 2, name: "Sushi Club", score: 5, lastTimeVisited: "11/02/2019", address: "Pilar" },
@@ -16,14 +16,11 @@ class App extends Component {
     return (
 
       <>
-
-
         <div style={{ textAlign: 'center' }}>
           <h1>Sushi Masters</h1>
         </div>
         <Search />
         <RestaurantGrid dataGrid={list} />
-
       </>
     );
   }
