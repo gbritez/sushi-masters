@@ -1,13 +1,13 @@
 {
-  "main.css": "/sushi/static/css/main.e6716ccd.chunk.css",
-  "main.js": "/sushi/static/js/main.691e399f.chunk.js",
-  "main.js.map": "/sushi/static/js/main.691e399f.chunk.js.map",
-  "runtime~main.js": "/sushi/static/js/runtime~main.2e17366c.js",
-  "runtime~main.js.map": "/sushi/static/js/runtime~main.2e17366c.js.map",
-  "static/js/2.15b976a6.chunk.js": "/sushi/static/js/2.15b976a6.chunk.js",
-  "static/js/2.15b976a6.chunk.js.map": "/sushi/static/js/2.15b976a6.chunk.js.map",
-  "index.html": "/sushi/index.html",
-  "precache-manifest.7aced81a6d07f0fc5b68ce3a1d0efbb3.js": "/sushi/precache-manifest.7aced81a6d07f0fc5b68ce3a1d0efbb3.js",
-  "service-worker.js": "/sushi/service-worker.js",
-  "static/css/main.e6716ccd.chunk.css.map": "/sushi/static/css/main.e6716ccd.chunk.css.map"
+  "main.css": "/sushi-masters/static/css/main.e6716ccd.chunk.css",
+  "main.js": "/sushi-masters/static/js/main.59cf4b7e.chunk.js",
+  "main.js.map": "/sushi-masters/static/js/main.59cf4b7e.chunk.js.map",
+  "runtime~main.js": "/sushi-masters/static/js/runtime~main.a2d246e3.js",
+  "runtime~main.js.map": "/sushi-masters/static/js/runtime~main.a2d246e3.js.map",
+  "static/js/2.918c78d9.chunk.js": "/sushi-masters/static/js/2.918c78d9.chunk.js",
+  "static/js/2.918c78d9.chunk.js.map": "/sushi-masters/static/js/2.918c78d9.chunk.js.map",
+  "index.html": "/sushi-masters/index.html",
+  "precache-manifest.66da7615608f32f819e40d299178a527.js": "/sushi-masters/precache-manifest.66da7615608f32f819e40d299178a527.js",
+  "service-worker.js": "/sushi-masters/service-worker.js",
+  "static/css/main.e6716ccd.chunk.css.map": "/sushi-masters/static/css/main.e6716ccd.chunk.css.map"
 }
